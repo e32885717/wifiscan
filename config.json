@@ -1,0 +1,28 @@
+{ 
+  "api_url": "https://wifibase.zapto.org:7080/3wifi.php",
+  "api_login": "antichat",
+  "api_password": "antichat",
+  "api_upload_comment": "wifiscan",
+  "ranges_file": "ranges.txt",
+  "ports_file": "ports.txt",
+  "auth_file": "auth.txt",
+  "out_dir": "out",
+  "use_task_api": true,
+  "connect_timeout_ms": 800,
+  "router_scan_timeout_ms": 8000,
+  "csv_flush_every_rows": 50,
+  "csv_flush_every_seconds": 5,
+  "dial_workers": 200,
+  "router_workers": 5,
+  "use_external_router": true,
+  "router_binary": "routerlibpars.exe",
+
+  "user_agents_file": "user_agent.txt",
+  "proxy": {
+    "type": "socks5",
+    "ip": "127.0.0.1",
+    "port": 1080,
+    "username": "",
+    "password": ""
+  }
+}

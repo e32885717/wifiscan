@@ -1,0 +1,2 @@
+wifiscan.exe
+pause
