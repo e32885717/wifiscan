@@ -94,6 +94,4 @@ Mozilla/5.0 (Linux; Android 12; SM-G991B) ...
 
 ---
 
-## 📜 License
-
-MIT License
+## 📜 
