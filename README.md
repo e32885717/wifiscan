@@ -1,5 +1,12 @@
 # WiFiScan
 
+## ⚠️ Disclaimer
+
+- This program is provided **"as is"**.  
+- The author does **not encourage any illegal activity**.  
+- Use it entirely **at your own risk**.  
+
+
 ## 🇬🇧 Description
 
 **WiFiScan** is a tool for mass scanning of IP ranges and ports:
